@@ -11,3 +11,9 @@ Beluga is open-source software for creating your own ecommerce site. It is built
 Beluga is the next iteration of [react-stripe-store](https://github.com/binx/react-stripe-store)
 
 <a href="https://www.buymeacoffee.com/binx" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-blue.png" alt="Buy Me A Coffee" height="51px" width="217px"></a>
+
+
+### Rnn the code
+
+1. In terminal, run `yarn server` to run the backend service
+2. In different terminal window, run `yarn start` to run the frontend
